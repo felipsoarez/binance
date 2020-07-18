@@ -21,12 +21,18 @@ PYTHON-BINANCE
 
 `~$ pip install python-binance`
 
+Download
+
+`~$ git clone https://github.com/datacryptoanalytics/bot.git`
+
 
 `~$ cd bot`
 
 Treinar algoritmo
 
 `~$ python treinamento-algoritmo.py`
+
+Iniciar Trading
 
 `~$ python trading-algoritmo.py`
 
