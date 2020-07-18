@@ -1,6 +1,8 @@
 ## DataCrypto Analytics Bot wiki!
 
 
+ <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
+
 Download and install Anaconda Project
 
 [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
