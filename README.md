@@ -3,7 +3,7 @@
 
 Download and install Anaconda Project
 
-[anaconda.com](https://www.anaconda.com/products/individual#Downloads)
+`[anaconda.com](https://www.anaconda.com/products/individual#Downloads)`
 
 
 
