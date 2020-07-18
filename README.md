@@ -1,13 +1,13 @@
-## Welcome to the DataCrypto Analytics Bot wiki!
+## DataCrypto Analytics Bot wiki!
 
-Install dependencies
 
 Download and install Anaconda Project
 
 [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
 
-#Or
+
+Instalar dependências se necessário 
 
 NUMPY
 
@@ -24,12 +24,13 @@ PYTHON-BINANCE
 
 `~$ cd bot`
 
+Treinar algoritmo
 
 `~$ python treinamento-algoritmo.py`
 
 `~$ python trading-algoritmo.py`
 
-Stop Trading
+Parar Trading
 
 `~$ CTRL + C`
 
