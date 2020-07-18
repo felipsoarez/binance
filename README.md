@@ -7,7 +7,7 @@ Download and install Anaconda Project
 [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
 
-##Or
+#Or
 
 NUMPY
 
