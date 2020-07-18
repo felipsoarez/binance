@@ -4,12 +4,12 @@ Install dependencies
 
 NUMPY
 
-`pip install numpy`
+`~$ pip install numpy`
 
 PYTHON-BINANCE
 
-`pip install python-binance`
+`~$ pip install python-binance`
 
 PANDAS
 
-`pip install pandas`
+`~$ pip install pandas`
