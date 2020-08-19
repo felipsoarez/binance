@@ -1,4 +1,3 @@
-## DataCrypto Analytics Bot wiki!
 <a href="https://datacryptoanalytics.github.io/"><img src="https://datacryptoanalytics.github.io/images/logo-datacrypto-analytics.png"  width="380"/></a>
 
 
