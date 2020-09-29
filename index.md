@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/datacryptoanalytics/binance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">  <img alt="GitHub" src="https://img.shields.io/github/license/datacryptoanalytics/binance">
+ 
 
-### Markdown
+Download and install Anaconda Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Instalar dependências se necessário 
 
-1. Numbered
-2. List
+NUMPY
 
-**Bold** and _Italic_ and `Code` text
+`~$ pip install numpy`
 
-[Link](url) and ![Image](src)
-```
+PANDAS
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`~$ pip install pandas`
 
-### Jekyll Themes
+PYTHON-BINANCE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datacryptoanalytics/binance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`~$ pip install python-binance`
 
-### Support or Contact
+Download
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`~$ git clone https://github.com/datacryptoanalytics/bot.git`
+
+
+`~$ cd bot`
+
+Treinar algoritmo
+
+`~$ python treinamento-algoritmo.py`
+
+Iniciar Trading
+
+`~$ python trading-algoritmo.py`
+
+Parar Trading
+
+`~$ CTRL + C`
+
+
+
+<img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
+ <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
+
