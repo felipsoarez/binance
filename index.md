@@ -8,8 +8,8 @@ Download and install Anaconda Project
 [anaconda.com](https://www.anaconda.com/products/individual#Downloads)
 
 
+<h2> Instalar dependências se necessário  </h2>
 
-Instalar dependências se necessário 
 
 NUMPY
 
@@ -29,16 +29,16 @@ Download
 
 
 `~$ cd bot`
+<h2> Treinar algoritmo </h2>
 
-Treinar algoritmo
 
 `~$ python treinamento-algoritmo.py`
+<h2> Iniciar Trading </h2>
 
-Iniciar Trading
 
 `~$ python trading-algoritmo.py`
+<h2> Parar Trading </h2>
 
-Parar Trading
 
 `~$ CTRL + C`
 
